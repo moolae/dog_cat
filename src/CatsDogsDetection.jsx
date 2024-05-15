@@ -30,7 +30,7 @@ export default function CatsDogsDetection() {
 
   return (
     <div>
-      <h1>Choose a dog or cat image</h1>
+      <h1>개 또는 고양이 이미지를 선택하시오</h1>
       <input type="file" onChange={onLoadPreview} accept="image/*" />
       {previewUrl &&
         <div style={{ marginTop: 10 }}>
