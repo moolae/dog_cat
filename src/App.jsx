@@ -5,8 +5,8 @@ import CatsDogsDetection from "./CatsDogsDetection";
 
 function App() {
   return (
-    {/* <div className="App">
-      <div className="alert">
+     <div className="App">
+       {/*  <div className="alert">
         <a
           rel="noopener noreferrer"
           target="_blank"
