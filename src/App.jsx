@@ -5,7 +5,7 @@ import CatsDogsDetection from "./CatsDogsDetection";
 
 function App() {
   return (
-    <div className="App">
+    {/* <div className="App">
       <div className="alert">
         <a
           rel="noopener noreferrer"
@@ -13,8 +13,8 @@ function App() {
           href="https://aralroca.com/blog/cat-dog-classifier"
         >
           Read the tutorial
-        </a>
-      </div>
+        </a> 
+      </div>  */}
       <CatsDogsDetection />
     </div>
   );
