@@ -1,3 +1,11 @@
+/*
+ * This file is based on code from https://github.com/facebook/create-react-app
+ * Original License: MIT License
+ * Copyright (c) 2013-present, Facebook, Inc.
+ *
+ * Modifications made by aimath5270 for cat_dog_detection WebApp.
+*/
+
 import { h } from "preact";
 import { useState } from "preact/hooks";
 import * as tf from "@tensorflow/tfjs";
