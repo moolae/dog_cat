@@ -1,3 +1,15 @@
+MIT License
+
+This project is based on code from the following repositories:
+1. https://github.com/facebook/create-react-app
+   Copyright (c) 2013-present, Facebook, Inc.
+
+2. https://github.com/vitejs/vite-plugin-react
+   Copyright (c) 2020-present, Yuxi (Evan) You
+
+The original license for each repository is included below. This project has been modified for use in **dog_cat_detection**.
+
+
 """
 MIT License
 
